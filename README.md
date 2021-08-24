@@ -1,5 +1,10 @@
 # crypto-ts
 
+```
+git clone git@github.com:sramos30/crypto-ts.git
+
+```
+
 Typescript library of crypto standards. Ready for AOT and treeshaking in combination with Angular and other modern typescript frameworks.
 
 ## Node.js (Install)
